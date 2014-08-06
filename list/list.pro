@@ -58,13 +58,13 @@ HEADERS += \
     functions/qml_studylisthelper.h \
     objects/qml_imagelistobject.h \
     objects/qml_serieslistobject.h \
-    ../objects/qml_editinfoobject.h \
-    ../objects/qml_imagelistobject.h \
-    ../objects/qml_serieslistobject.h \
-    ../objects/qml_studylistobject.h \
-    ../objects/studyeditobject.h \
-    ../functions/qml_serieslisthelper.h \
-    ../functions/qml_studylisthelper.h \
+    objects/qml_editinfoobject.h \
+    objects/qml_imagelistobject.h \
+    objects/qml_serieslistobject.h \
+    objects/qml_studylistobject.h \
+    objects/studyeditobject.h \
+    functions/qml_serieslisthelper.h \
+    functions/qml_studylisthelper.h \
     iniparam.h \
     searchstudykey.h \
     common_functions.h \
